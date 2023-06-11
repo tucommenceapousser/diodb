@@ -13,7 +13,7 @@ A true, community-powered, vendor agnostic directory of all known VDP and BBPs, 
 |Purpose|Link|
 |-|-|
 | Search through the database front-end  | [https://disclose.io/programs](https://disclose.io/programs)  |
-| Download the raw database in .json format  | [https://github.com/disclose/diodb/raw/master/program-list.json](https://github.com/disclose/diodb/raw/master/program-list.json)  |
+| Download the raw database in .json format  | [https://github.com/tucommenceapousser/diodb/raw/master/program-list.json](https://github.com/disclose/diodb/raw/master/program-list.json)  |
 | Generate your own Vulnerability Disclosure Program | [https://policymaker.disclose.io/](https://policymaker.disclose.io/) |
 | Join disclose.io Community Forum  | [https://community.disclose.io](https://community.disclose.io) |
 | Learn more about Vulnerability Disclosure Programs (VDP) | [https://github.com/disclose/dioterms](https://github.com/disclose/dioterms) |
